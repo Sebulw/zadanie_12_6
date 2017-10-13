@@ -1,2 +1,35 @@
+@import url("https://fonts.googleapis.com/css?family=Arimo:400,700&subset=latin-ext");
+body {
+  background: url("https://static.pexels.com/photos/41949/earth-earth-at-night-night-lights-41949.jpeg");
+  color: #FFF;
+  font-family: 'Arimo', sans-serif; }
+
+main {
+  margin: 50px;
+  text-align: center; }
+  main h1 {
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 45px;
+    padding: 30px;
+    letter-spacing: 1px; }
+  main .btn {
+    width: 150px; }
+  main .country-name {
+    margin: 20px;
+    padding: 15px;
+    height: 32px;
+    color: #000; }
+  main h2 {
+    font-size: 35px; }
+  main ul {
+    width: 400px;
+    text-align: center;
+    margin: 15px auto;
+    list-style-type: none;
+    padding: 0;
+    text-align: left; }
+    main ul li {
+      font-size: 20px; }
 
 /*# sourceMappingURL=style.css.map */
